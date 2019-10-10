@@ -61,7 +61,7 @@ function gameLoop(){
 };
 
 function makeBubbles(){
-  var bubInt = setInterval(function(){var b = new Bubble((Math.random()*canvas.width),400,(Math.random()*10));bArray.push(b);}, 2000);
+  var bubInt = setInterval(function(){var b = new Bubble((Math.random()*canvas.width),400,5);bArray.push(b);}, 2000);
 }
 
 function stopBubbles(){
