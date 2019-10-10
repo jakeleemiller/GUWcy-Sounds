@@ -1,0 +1,42 @@
+[03-Sep-2017 18:05:46 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) in /home/jmillerdev/public_html/Soundboard/board.php on line 7
+[03-Sep-2017 18:08:19 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/jmillerdev/public_html/Soundboard/board.php on line 7
+[03-Sep-2017 18:12:57 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/jmillerdev/public_html/Soundboard/board.php on line 8
+[03-Sep-2017 18:13:00 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/jmillerdev/public_html/Soundboard/board.php on line 8
+[03-Sep-2017 18:17:28 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/jmillerdev/public_html/Soundboard/board.php on line 7
+[03-Sep-2017 18:17:35 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/jmillerdev/public_html/Soundboard/board.php on line 7
+[03-Sep-2017 18:17:41 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/jmillerdev/public_html/Soundboard/board.php on line 7
+[03-Sep-2017 18:19:05 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/jmillerdev/public_html/Soundboard/board.php on line 7
+[03-Sep-2017 18:19:11 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/jmillerdev/public_html/Soundboard/board.php on line 7
+[17-Oct-2017 17:57:56 UTC] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/jmillerdev/public_html/Soundboard/soundboard.php on line 16
+[17-Oct-2017 17:58:38 UTC] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/jmillerdev/public_html/Soundboard/soundboard.php on line 16
+[27-Oct-2017 18:38:03 UTC] PHP Warning:  require(/home/jmillerdev/public_html/Soundboard/../vendor/autoload.php): failed to open stream: No such file or directory in /home/jmillerdev/public_html/Soundboard/basic.php on line 2
+[27-Oct-2017 18:38:03 UTC] PHP Warning:  require(/home/jmillerdev/public_html/Soundboard/../vendor/autoload.php): failed to open stream: No such file or directory in /home/jmillerdev/public_html/Soundboard/basic.php on line 2
+[27-Oct-2017 18:38:03 UTC] PHP Fatal error:  require(): Failed opening required '/home/jmillerdev/public_html/Soundboard/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/jmillerdev/public_html/Soundboard/basic.php on line 2
+[27-Oct-2017 18:38:51 UTC] PHP Warning:  require(/home/jmillerdev/public_html/Soundboard/../vendor/autoload.php): failed to open stream: No such file or directory in /home/jmillerdev/public_html/Soundboard/basic.php on line 2
+[27-Oct-2017 18:38:51 UTC] PHP Warning:  require(/home/jmillerdev/public_html/Soundboard/../vendor/autoload.php): failed to open stream: No such file or directory in /home/jmillerdev/public_html/Soundboard/basic.php on line 2
+[27-Oct-2017 18:38:51 UTC] PHP Fatal error:  require(): Failed opening required '/home/jmillerdev/public_html/Soundboard/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/jmillerdev/public_html/Soundboard/basic.php on line 2
+[27-Oct-2017 18:38:53 UTC] PHP Warning:  require(/home/jmillerdev/public_html/Soundboard/../vendor/autoload.php): failed to open stream: No such file or directory in /home/jmillerdev/public_html/Soundboard/basic.php on line 2
+[27-Oct-2017 18:38:53 UTC] PHP Warning:  require(/home/jmillerdev/public_html/Soundboard/../vendor/autoload.php): failed to open stream: No such file or directory in /home/jmillerdev/public_html/Soundboard/basic.php on line 2
+[27-Oct-2017 18:38:53 UTC] PHP Fatal error:  require(): Failed opening required '/home/jmillerdev/public_html/Soundboard/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/jmillerdev/public_html/Soundboard/basic.php on line 2
+[27-Oct-2017 18:53:48 UTC] PHP Fatal error:  Uncaught Error: Class 'TeamWorkPm\Auth' not found in /home/jmillerdev/public_html/Soundboard/basic.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmillerdev/public_html/Soundboard/basic.php on line 7
+[27-Oct-2017 18:53:49 UTC] PHP Fatal error:  Uncaught Error: Class 'TeamWorkPm\Auth' not found in /home/jmillerdev/public_html/Soundboard/basic.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmillerdev/public_html/Soundboard/basic.php on line 7
+[27-Oct-2017 18:53:52 UTC] PHP Fatal error:  Uncaught Error: Class 'TeamWorkPm\Auth' not found in /home/jmillerdev/public_html/Soundboard/basic.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jmillerdev/public_html/Soundboard/basic.php on line 7
+[27-Oct-2017 18:54:44 UTC] PHP Warning:  require(/home/jmillerdev/public_html/Soundboard./vendor/autoload.php): failed to open stream: No such file or directory in /home/jmillerdev/public_html/Soundboard/basic.php on line 2
+[27-Oct-2017 18:54:44 UTC] PHP Warning:  require(/home/jmillerdev/public_html/Soundboard./vendor/autoload.php): failed to open stream: No such file or directory in /home/jmillerdev/public_html/Soundboard/basic.php on line 2
+[27-Oct-2017 18:54:44 UTC] PHP Fatal error:  require(): Failed opening required '/home/jmillerdev/public_html/Soundboard./vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/jmillerdev/public_html/Soundboard/basic.php on line 2
+[27-Oct-2017 18:54:46 UTC] PHP Warning:  require(/home/jmillerdev/public_html/Soundboard./vendor/autoload.php): failed to open stream: No such file or directory in /home/jmillerdev/public_html/Soundboard/basic.php on line 2
+[27-Oct-2017 18:54:46 UTC] PHP Warning:  require(/home/jmillerdev/public_html/Soundboard./vendor/autoload.php): failed to open stream: No such file or directory in /home/jmillerdev/public_html/Soundboard/basic.php on line 2
+[27-Oct-2017 18:54:46 UTC] PHP Fatal error:  require(): Failed opening required '/home/jmillerdev/public_html/Soundboard./vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/jmillerdev/public_html/Soundboard/basic.php on line 2
+[16-Apr-2018 19:07:24 UTC] PHP Notice:  Undefined index: q in /home/jmillerdev/public_html/Soundboard/score.php on line 2
+[16-Apr-2018 19:07:33 UTC] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/jmillerdev/public_html/Soundboard/soundboard.php on line 18
+[16-Apr-2018 19:23:35 UTC] PHP Notice:  Undefined index: q in /home/jmillerdev/public_html/Soundboard/score.php on line 2
+[16-Apr-2018 19:23:49 UTC] PHP Notice:  Undefined index: q in /home/jmillerdev/public_html/Soundboard/score.php on line 2

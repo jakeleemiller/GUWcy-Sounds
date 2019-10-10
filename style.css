@@ -1,0 +1,56 @@
+.header{
+  width:100%;
+  max-width: 600px;
+  text-align: center;
+  border-style: groove;
+  margin: auto;
+
+}
+
+.pageTitle{
+  color: orange;
+  font-size: 75px;
+  margin: 0px;
+}
+
+.board {
+  width: 100%;
+  max-width: 600px;
+  display: flex;
+  justify-content: space-around;
+  align-content: space-between;
+  flex-wrap: wrap;
+  margin:auto;
+  padding: 10px 0px 0px;
+}
+
+.button {
+  border-radius: 50px;
+  background-color: lightblue;
+  margin: 10px 5px 10px;
+}
+
+#plush {
+  margin: auto;
+  display: block;
+}
+
+#guy {
+  display:none;
+}
+
+#video_container {
+  width: 100%;
+  height: 100px;
+}
+
+#video_container:hover {
+  animation: mymove 5s;
+  display: relative;
+  text-align: center;
+}
+
+@keyframes mymove {
+    from {bottom: 0px;}
+    to {bottom: 200px;}
+}
